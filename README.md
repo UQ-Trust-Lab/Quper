@@ -6,21 +6,21 @@
 ├── LICENSE.md
 ├── INSTALL.md
 ├── src
-│   ├── Compliance of disclosure
+│   ├── compliance of disclosure
 │   │	├── compliance_of_disclosure.py
 │   │       ├── predict_content.py  
 │   │       ├── find_subtitle.py
 │   │       ├── bys_classifier.pkl
 │   │       ├── bys_tf.pkl
 │   │	├── pp_example
-│   ├── Timeliness
+│   ├── timeliness
 │   │	├── timeline.py
-│   ├── Availability
+│   ├── availability
 ├── ├── <!-- External Link -->
 │   │   ├── get_external_link.py
 ├── ├── <!-- Language Type -->
 │       ├── get_language_type.py
-│   ├── Readability
+│   ├── readability
 │   │	├── readability.py
 │   │	├── doubleNeg_obscure_qualifiers.py
 │   │	├── main_idea-location.py
