@@ -18,13 +18,13 @@ def getFrequency(url):
     # bor = webdriver.Chrome(options=options)
     bor.get('https://archive.org/web/')
     # bor.get('https://www.getbring.com/en/privacy-policy')
-    # 定位输入框
+    # input button
     input_box = bor.find_element(by=By.ID,value='wwmurl')
     try:
         input_box.send_keys(url)
     except Exception:
         pass
-    # 定位搜索按钮
+    # search button
     button = bor.find_element(by=By.NAME , value='type')
     try:
         button.click()
@@ -38,7 +38,7 @@ def getFrequency(url):
     duplicates = None
     uniques = None
     # newOne = None
-    # 定位时间戳位置
+    # find time
     # try:
     #     times = bor.find_element(by=By.CLASS_NAME , value='captures-range-info').find_element(by=By.TAG_NAME , value='strong').text
     #     interval = bor.find_element(by=By.CLASS_NAME , value='captures-range-info').find_elements(by=By.TAG_NAME , value='a')
