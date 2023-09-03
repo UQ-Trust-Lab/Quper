@@ -9,6 +9,7 @@ from selenium.webdriver.chrome.options import Options
 from waybackpy import WaybackMachineSaveAPI
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
 def getFrequency(url):
+    #Replace the local driver path
     chrome_driver_path = '/Users/chuan/chrome-mac-arm64'
     # bor = webdriver.Chrome(executable_path='chromedriver')
     chrome_options = webdriver.ChromeOptions()
