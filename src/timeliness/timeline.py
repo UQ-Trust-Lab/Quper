@@ -6,26 +6,26 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.wait import WebDriverWait
 from waybackpy import WaybackMachineSaveAPI
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
 def getFrequency(url):
-    #Replace the local driver path
-    chrome_driver_path = '/Users/chuan/chrome-mac-arm64'
-    # bor = webdriver.Chrome(executable_path='chromedriver')
-    chrome_options = webdriver.ChromeOptions()
-    bor = webdriver.Chrome(options=chrome_options)
+    options = Options()
+    options.add_argument('--headless')
+    bor = webdriver.Chrome(options=options)
+    bor.maximize_window()
     # options = webdriver.ChromeOptions()
     # options.headless = True
     # bor = webdriver.Chrome(options=options)
     bor.get('https://archive.org/web/')
     # bor.get('https://www.getbring.com/en/privacy-policy')
-    # input button
+    # 定位输入框
     input_box = bor.find_element(by=By.ID,value='wwmurl')
     try:
         input_box.send_keys(url)
     except Exception:
         pass
-    # search button
+    # 定位搜索按钮
     button = bor.find_element(by=By.NAME , value='type')
     try:
         button.click()
@@ -39,7 +39,7 @@ def getFrequency(url):
     duplicates = None
     uniques = None
     # newOne = None
-    # find time
+    # 定位时间戳位置
     # try:
     #     times = bor.find_element(by=By.CLASS_NAME , value='captures-range-info').find_element(by=By.TAG_NAME , value='strong').text
     #     interval = bor.find_element(by=By.CLASS_NAME , value='captures-range-info').find_elements(by=By.TAG_NAME , value='a')
@@ -59,7 +59,7 @@ def getFrequency(url):
         pass
         print("not find urlbutton")
 
-    sleep(2)
+    sleep(4)
 
     try:
         root = bor.find_element(by=By.ID,value='url-query-result').find_element(by=By.ID,value='resultsUrl_wrapper').find_elements(by=By.CLASS_NAME,value='row')[1].find_element(by=By.CLASS_NAME,value='col-sm-12').find_element(by=By.ID,value='resultsUrl').find_element(by=By.TAG_NAME,value='tbody').find_element(by=By.CLASS_NAME,value='odd')
@@ -102,4 +102,10 @@ def Find_kuohao(string):
         result = list(set(result))
     return result
 
-print(getFrequency("https://help.abc.net.au/hc/en-us/articles/360001154976-ABC-Privacy-Policy"))
+result = getFrequency("https://help.abc.net.au/hc/en-us/articles/360001154976-ABC-Privacy-Policy")
+print(result)
+print("privacy policy first upload time: " + str(result[0]))
+print("privacy policy last update time: " + str(result[1]))
+print("privacy policy total update times: " + str(result[2]))
+print("privacy policy update times (duplicate): " + str(result[3]))
+print("privacy policy update times (uniques): " + str(result[4]))

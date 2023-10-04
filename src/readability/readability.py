@@ -103,7 +103,7 @@ if __name__ == "__main__":
         lix = calculate_lix(text)
         avg_syllables_per_word, avg_words_per_sentence, avg_letters_per_word, num_sentences, num_words, reading_time, speaking_time = calculate_metrics(
             text)
-        print(file)
+        print("availability metrics: ")
         print("ARI:", ari)
         print("FRES:", fres)
         print("LIX:", lix)

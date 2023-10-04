@@ -62,6 +62,5 @@ if __name__ == "__main__":
         for sentence in sentences:
             if is_center_preposed(sentence):
                 true_count += 1
-        print(file)
         print("Number of Sentences with Center Preposing:", true_count)
         print("-----------------------")

@@ -1,0 +1,228 @@
+When you submit a classified ad for publication on detroitnews.com, you agree that the advertisement as it appears on detroitnews.com becomes the property of detroitnews.com and you assign all ownership interest in the advertisement as it appears on the Service under copyright law or otherwise to detroitnews.com. Submission of an advertisement does not constitute a commitment to publish the advertisement and publication of an advertisement does not constitute an agreement for continued publication. We will accept only standard abbreviations and required proper punctuation. detroitnews.com reserves the right to edit, reclassify, revise, reject or cancel any advertisement at any time, in its sole discretion. Rates and specifications are subject to change.
+
+Although you are entering into an Agreement with SpokenLayer to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others.
+
+
+Throughout the course of our provision of our Service to you, we may delegate our authority to collect, access, use, and disseminate your information.  For example, our web host stores the information that you provide us, and we may hire outside contractors to perform maintenance or assist us in securing our website.
+
+
+It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy.  For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems.  You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you.
+
+
+Without limiting the generality of the foregoing, you authorize us to collect, share, store, and otherwise use your information in conjunction with SpokenLayer.
+
+
+
+At times it may become necessary or desirable to SpokenLayer, for legal purposes, to release your information in response to a request from a government agency or a private litigant.  You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter.  In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either.  We may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities.  You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants.
+
+
+By providing information to the Site that forms the basis of communications with you, such as contact information, you waive all rights to file complaints concerning unsolicited e-mails from SpokenLayer since, by providing such information, you agree to receive communication from us or anyone else covered under this Privacy Policy. However, you may unsubscribe from certain communications by notifying SpokenLayer that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database.
+
+
+Your information may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, SpokenLayer transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+ 
+We may share information as described below: o	Affiliates. We may disclose the information we collect from you to our affiliates or subsidiaries; however, if we do so, their use and disclosure of your personally identifiable information will be subject to this Policy. 
+ o	Vendors and Service Providers. We may share your personal information with vendors and service providers that we hire to perform services on our behalf, such as providing data storage, hosting websites, engaging in marketing activities and providing data analysis.
+ o	To Protect Ourselves/For Legal Purposes. We may disclose your information to protect our rights and property, to prevent against fraud and abuse, and to protect other users of our Services. We also may disclose your information as permitted or required by law, for example, in response to court orders, subpoenas, or other requests for information.
+ o	Sale/Transfer of Business. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected to the acquiring company. 
+ o	Aggregate and Anonymized Information. We may share or sell aggregate or anonymized information about users with or to third parties for marketing, advertising, research or similar purposes. For example, if we display advertisements on behalf of a third party, we may share aggregate, demographic information with that third party about the users to whom we displayed the advertisements.
+ 
+ 
+At times, the Sites or the Application may contain links to, or be integrated with, other third party websites and applications. Any access to and use of such third party websites and applications is not governed by this Policy, but, instead, is governed by the privacy policies of those third party websites, and we are not responsible for the information practices of such third party websites.
+ 
+ 
+ 
+Amazon Alexa.
+ 
+Google Assistant.
+ 
+ 
+ 
+ 
+Send Overnight Mail.
+ 
+Mailform.
+ 
+Fax Rocket.
+ 
+SMS Invoice Reminders.
+ 
+Fine Postcards.
+ 
+Task Scheduler.
+ 
+Split CSV.
+ 
+Easy Text to Speech.
+ 
+ 
+ 
+ 
+. We may supplement the information we collect with information from the SpotBus Group affiliates and other third parties that we use to promote our products and services. For example, we may receive information from a third party about how well an online marketing or email campaign performed, or from conference and trade show organizers.
+
+Where we use third-party analytics tools to help us understand how the SpotBus websites are used, these parties will have access to some of your personal information. This includes analytics tools such as Google Analytics and LinkedIn Lead Gen. Learn more about our use of cookies in our 
+. We may receive information from affiliates in our SpotBus Group of companies and other third parties. For example, we may receive limited personal information from third-party services that integrate with or complement the SpotBus products or services in order to provide you with the best possible user experience.
+
+We share information to provide the SpotBus products and services to you and further improve them. Within SpotBus, your information will be accessed only by those who have a need to provide the SpotBus products and services. We use vendors to help us provide the SpotBus products and services to your school or school district. For example, if your school or school district has a hosted SpotBus product or service, Amazon Web Services and Azure provide our cloud hosting facilities. Third-party analytics tools may also have access to your personal information to help us understand how the SpotBus products and services are being used. Learn more about our use of cookies and analytic tools in our 
+
+We share student information in accordance with our agreement with your (or your child’s) school or school district. Generally, this includes the sharing of such information inside and outside SpotBus under certain terms. Student information will be accessed inside SpotBus only by those have a need to know to provide the SpotBus products and services and improve them. For example, our technical and client support teams may have access to personal information when the SpotBus products and services are implemented for your school or school district or when software or other changes are required for support and maintenance purposes. We use vendors to help us provide the SpotBus products and services to you (or to your child) on behalf of our school or school district customer.
+ Users of our Products, not including Students or Parents.
+SpotBus provides applicant and job candidate tracking services to end-users of schools, school districts, and higher education agencies (our customers) as a “data processor.” The main responsibility of what is known as a “data controller” lies with the customer. This also means that the customer’s own privacy statement governs the use of personal information collected through our products. SpotBus’s customers determine what information we collect through the SpotBus products and services and how it is used, and we process that information according to our customer’s instructions and the terms of our contract with our customer.
+This section of our Privacy Statement is provided for informational purposes and describes how applicant personal information is used when SpotBus products and services are provided through a school or school district. How that information is used depends on the school or school district, so please consult your institution’s privacy statement.
+Information We Collect.
+Information provided to us by a school, district, or education agency.
+ The SpotBus applicant tracking products and services integrate with our customer’s systems. The specific information that is collected from our customer depends upon the SpotBus product or service, but in general, this information includes but is not limited to: name, age, email address, social security number, account credentials, academic and student records, background check information, and additional records as requested by the customer. SpotBus will receive regular updated information to keep account information accurate and up to date.
+Directly from a customer’s applicant.
+: SpotBus will collect the following data categories directly from a customer’s applicant-user: name, age, email address, social security number, account credentials, academic and student records, background check information, and additional records as requested by the customer. SpotBus will receive regular updated information to keep account information accurate and up to date.
+Indirectly from customer’s applicant.
+: We collect device and usage information when you access and use SpotBus products and services, including information that your browser or the mobile app sends when you are using it. This data may include your unique device identifier, IP address, your browser type and configuration, the date and time of your use of the product or service, and cookie data. Specifically, We and our service providers use cookies and similar technologies such as local storage (HTML5), web beacons, Javascript, and eTags. The purpose of collecting such information is for improvement of our products and services to better meet the needs of our customers and their users. Learn more about our use of cookies in our 
+Cookie Statement.
+How We Use This Information.
+On behalf of the customer.
+. We use your information on behalf of and under the instruction of the customer education agency, which is the data controller. We use the information in accordance with our agreement with our customer to operate, maintain, and provide the features and functionality of the SpotBus products and services. The school, district, or education agency determines how the personal information is used.
+
+We share student information in accordance with our agreement with a customer. Generally, this includes the sharing of such information inside and outside SpotBus under certain terms. Applicant information will be accessed inside SpotBus only by those have a need to know to provide the SpotBus products and services and improve them. For example, our technical and client support teams may have access to personal information when the SpotBus products and services are implemented for a customer or when software or other changes are required for support and maintenance purposes. We use vendors to help us provide the SpotBus products and services to you on behalf of our customers.
+ Sharing with Vendors, Partners, and Other Disclosures.
+Vendors. 
+We engage directly with certain third-party companies to help us provide the SpotBus products and services to our customers or to you or to perform work on our behalf (“Vendors”). Our vendors are required to abide by our privacy and security instructions and are contractually restricted from using any personal information they access or receive from us for any purposes other than as needed to perform such services. We may use vendors to help us conduct marketing campaigns or events and disclose customer contact information necessary for those activities.
+Partners. 
+Your institution may work with third-party companies to provide additional content and functionality which requires access to SpotBus products and services (“Partners”) Only with your institution’s permission, will we share information about you, such as your name, email, or student ID, that is required to provide you with access to the products and services that have been requested by your institution. In these cases, these Partners will enter into an agreement directly with your institution regarding the processing of any data at the direction of your institution.
+Other Types of Disclosures. 
+We may also share your information where required under the following circumstances:
+
+Where permitted by applicable law and by contracts with our customers, we may disclose your information in the course of a corporate transaction such as a merger, acquisition, sale of assets, or a financing, or pursuant to a bankruptcy, dissolution proceeding or reorganization.
+We may need to disclose your information to comply with legal or regulatory requirements and to respond to lawful requests, court orders, and legal processes. Where such disclosures relate to personal data we hold as a data processor on behalf of our customers, we will refer such requests to our customers where permissible.
+We may need to disclose your information to protect and defend the rights, property, or safety of SpotBus, our customers, or third parties, including enforcing contracts or policies, or in connection with investigating and preventing fraud or other misuse of our systems.
+We may utilize aggregated or de-identified (anonymized) information that is no longer associated with a person to enhance and promote the SpotBus products and services. 
+SpotBus does not rent, sell, or otherwise provide access to student personal data to third parties for marketing or advertising purposes.
+Marketing.
+ We conduct marketing to promote the SpotBus products and services, but do not use or disclose information (whether personal information or otherwise) about students that we collect through the provision of SpotBus products and services for targeting of advertisements to students.When we conduct (or sponsor) events, conferences, and webinars, we will collect information about attendees, such as the session they attend and their contact information to provide them information about SpotBus products and services and other SpotBus information.
+
+Marketing Preferences and Opt-Out. 
+Our marketing emails will always include an “unsubscribe” link so that you can change your preferences and opt-out of receiving marketing emails or communications from SpotBus. You can also send us email at 
+[email protected]
+ to unsubscribe.Please note that even if you opt-out of marketing emails, we may still need to contact you with important information about your SpotBus account.
+Interest-based Advertising. 
+We use third party advertising tools to collect information about your visits to the SpotBus websites to provide targeted advertisements to you based on your browsing history on other websites or on other devices you may use. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally express your opt-out preference to no longer receive tailored advertisements. Please note that you will continue to see advertisements, but they will no longer be tailored to your interests.To learn more or opt-out of interest-based advertising by participating companies in the following consumer choice mechanisms, please visit:
+
+Digital Advertising Alliance (DAA)’s self-regulatory opt-out page (http://optout.aboutads.info/) and mobile application-based “AppChoices” download page (
+https://youradchoices.com/appchoices.
+).
+European Interactive Digital Advertising Alliiance (EDAA)’s consumer opt-out page (
+http://youronlinechoices.eu.
+).
+Network Advertising Initiative (NAI)’s self-regulatory opt-out page (http://optout.networkadvertising.org/).
+Google Analytics and Advertising. 
+We also use Google Analytics and other third-party cookies to collect certain information about your visits to our SpotBus websites.  You can opt-out of third-party cookies from Google Analytics using the 
+Google Analytics opt-out browser setting add-on.
+ or other ad management tools.You can learn more about our use of cookies in our 
+SpotBus provides applicant and job candidate tracking services to end-users of schools, school districts, and higher education agencies (our customers) as a “data processor.” The main responsibility of what is known as a “data controller” lies with the customer. This also means that the customer’s own privacy statement governs the use of personal information collected through our products. SpotBus’s customers determine what information we collect through the SpotBus products and services and how it is used, and we process that information according to our customer’s instructions and the terms of our contract with our customer.
+This section of our Privacy Statement is provided for informational purposes and describes how applicant personal information is used when SpotBus products and services are provided through a school or school district. How that information is used depends on the school or school district, so please consult your institution’s privacy statement.
+
+We share student information in accordance with our agreement with a customer. Generally, this includes the sharing of such information inside and outside SpotBus under certain terms. Applicant information will be accessed inside SpotBus only by those have a need to know to provide the SpotBus products and services and improve them. For example, our technical and client support teams may have access to personal information when the SpotBus products and services are implemented for a customer or when software or other changes are required for support and maintenance purposes. We use vendors to help us provide the SpotBus products and services to you on behalf of our customers.
+ Sharing with Vendors, Partners, and Other Disclosures.
+Vendors. 
+We engage directly with certain third-party companies to help us provide the SpotBus products and services to our customers or to you or to perform work on our behalf (“Vendors”). Our vendors are required to abide by our privacy and security instructions and are contractually restricted from using any personal information they access or receive from us for any purposes other than as needed to perform such services. We may use vendors to help us conduct marketing campaigns or events and disclose customer contact information necessary for those activities.
+Partners. 
+Your institution may work with third-party companies to provide additional content and functionality which requires access to SpotBus products and services (“Partners”) Only with your institution’s permission, will we share information about you, such as your name, email, or student ID, that is required to provide you with access to the products and services that have been requested by your institution. In these cases, these Partners will enter into an agreement directly with your institution regarding the processing of any data at the direction of your institution.
+Other Types of Disclosures. 
+We may also share your information where required under the following circumstances:
+
+Where permitted by applicable law and by contracts with our customers, we may disclose your information in the course of a corporate transaction such as a merger, acquisition, sale of assets, or a financing, or pursuant to a bankruptcy, dissolution proceeding or reorganization.
+We may need to disclose your information to comply with legal or regulatory requirements and to respond to lawful requests, court orders, and legal processes. Where such disclosures relate to personal data we hold as a data processor on behalf of our customers, we will refer such requests to our customers where permissible.
+We may need to disclose your information to protect and defend the rights, property, or safety of SpotBus, our customers, or third parties, including enforcing contracts or policies, or in connection with investigating and preventing fraud or other misuse of our systems.
+We may utilize aggregated or de-identified (anonymized) information that is no longer associated with a person to enhance and promote the SpotBus products and services. 
+SpotBus does not rent, sell, or otherwise provide access to student personal data to third parties for marketing or advertising purposes.
+Marketing.
+ We conduct marketing to promote the SpotBus products and services, but do not use or disclose information (whether personal information or otherwise) about students that we collect through the provision of SpotBus products and services for targeting of advertisements to students.When we conduct (or sponsor) events, conferences, and webinars, we will collect information about attendees, such as the session they attend and their contact information to provide them information about SpotBus products and services and other SpotBus information.
+
+Marketing Preferences and Opt-Out. 
+Our marketing emails will always include an “unsubscribe” link so that you can change your preferences and opt-out of receiving marketing emails or communications from SpotBus. You can also send us email at 
+[email protected]
+ to unsubscribe.Please note that even if you opt-out of marketing emails, we may still need to contact you with important information about your SpotBus account.
+Interest-based Advertising. 
+We use third party advertising tools to collect information about your visits to the SpotBus websites to provide targeted advertisements to you based on your browsing history on other websites or on other devices you may use. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally express your opt-out preference to no longer receive tailored advertisements. Please note that you will continue to see advertisements, but they will no longer be tailored to your interests.To learn more or opt-out of interest-based advertising by participating companies in the following consumer choice mechanisms, please visit:
+
+Digital Advertising Alliance (DAA)’s self-regulatory opt-out page (http://optout.aboutads.info/) and mobile application-based “AppChoices” download page (
+https://youradchoices.com/appchoices.
+).
+European Interactive Digital Advertising Alliiance (EDAA)’s consumer opt-out page (
+http://youronlinechoices.eu.
+).
+Network Advertising Initiative (NAI)’s self-regulatory opt-out page (http://optout.networkadvertising.org/).
+Google Analytics and Advertising. 
+We also use Google Analytics and other third-party cookies to collect certain information about your visits to our SpotBus websites.  You can opt-out of third-party cookies from Google Analytics using the 
+Google Analytics opt-out browser setting add-on.
+ or other ad management tools.You can learn more about our use of cookies in our 
+We engage directly with certain third-party companies to help us provide the SpotBus products and services to our customers or to you or to perform work on our behalf (“Vendors”). Our vendors are required to abide by our privacy and security instructions and are contractually restricted from using any personal information they access or receive from us for any purposes other than as needed to perform such services. We may use vendors to help us conduct marketing campaigns or events and disclose customer contact information necessary for those activities.
+Your institution may work with third-party companies to provide additional content and functionality which requires access to SpotBus products and services (“Partners”) Only with your institution’s permission, will we share information about you, such as your name, email, or student ID, that is required to provide you with access to the products and services that have been requested by your institution. In these cases, these Partners will enter into an agreement directly with your institution regarding the processing of any data at the direction of your institution.
+ We conduct marketing to promote the SpotBus products and services, but do not use or disclose information (whether personal information or otherwise) about students that we collect through the provision of SpotBus products and services for targeting of advertisements to students.When we conduct (or sponsor) events, conferences, and webinars, we will collect information about attendees, such as the session they attend and their contact information to provide them information about SpotBus products and services and other SpotBus information.
+
+Our marketing emails will always include an “unsubscribe” link so that you can change your preferences and opt-out of receiving marketing emails or communications from SpotBus. You can also send us email at 
+[email protected]
+ to unsubscribe.Please note that even if you opt-out of marketing emails, we may still need to contact you with important information about your SpotBus account.
+We use third party advertising tools to collect information about your visits to the SpotBus websites to provide targeted advertisements to you based on your browsing history on other websites or on other devices you may use. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally express your opt-out preference to no longer receive tailored advertisements. Please note that you will continue to see advertisements, but they will no longer be tailored to your interests.To learn more or opt-out of interest-based advertising by participating companies in the following consumer choice mechanisms, please visit:
+
+Digital Advertising Alliance (DAA)’s self-regulatory opt-out page (http://optout.aboutads.info/) and mobile application-based “AppChoices” download page (
+https://youradchoices.com/appchoices.
+).
+European Interactive Digital Advertising Alliiance (EDAA)’s consumer opt-out page (
+http://youronlinechoices.eu.
+).
+Network Advertising Initiative (NAI)’s self-regulatory opt-out page (http://optout.networkadvertising.org/).
+We also use Google Analytics and other third-party cookies to collect certain information about your visits to our SpotBus websites.  You can opt-out of third-party cookies from Google Analytics using the 
+Google Analytics opt-out browser setting add-on.
+ or other ad management tools.You can learn more about our use of cookies in our 
+A “data controller” is an entity that determines the purposes for which and the manner in which any personal information is processed. Any third parties that act as our service providers are “data processors” that handle your personal information in accordance with our instructions. With respect to the personal data of our customers or received through our SpotBus websites, SpotBus is a controller in relation to the information that you enter directly into the website about yourself or when you register for an account through your school or school district.
+SpotBus, in its role as a vendor to educational agencies and institutions, both public and private entities (“Educational Agencies”), receives disclosures from the Educational Agencies, which include the personal information and other data (“Student Data”) contained in student records as well as directly from students and parents of students. Only information that is needed for SpotBus to perform services, which are outsourced to SpotBus by the Educational Agencies, is disclosed to SpotBus. These disclosures are authorized by the federal Family Educational Rights and Privacy Act (FERPA). SpotBus considers Student Data to be strictly confidential and do not use Student Data for any purpose other than improving and providing our products and services to the Educational Agencies or on the Educational Agencies’ behalf. Our collection, use, and sharing of Student Data is governed by our contracts with the Educational Agencies, the provisions of FERPA, the Children’s Online Privacy Protection Act (COPPA), and other applicable state and federal laws and regulations that relate to the collection and use of personal information of students. 
+We share subject data with:
+Our Affiliates (legal entities controlled by us, controlling us, or share a common authority of control with us) within reasonable limits, with the sole purpose of providing our Services.
+Selected Third Parties, including our business partners, vendors/suppliers, and sub-contractors, for the performance of the contract we are in with them.
+Analytics and Search Engine Providers who assist us in improving our digital presence from time to time.
+Under special circumstances, we may disclose your data to other third parties too. Such circumstances may include and not be limited to:
+Selling or buying of business assets.
+Business acquisition by third party (data may become a transferred asset).
+We ensure maximum contractual and operational safeguards in the instance of third-party processing of subject data.
+myMRI.
+Client Support.
+Contact.
+Careers.
+Job Openings.
+
+Although you are entering into an Agreement with SpokenLayer to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others.
+
+
+Throughout the course of our provision of our Service to you, we may delegate our authority to collect, access, use, and disseminate your information.  For example, our web host stores the information that you provide us, and we may hire outside contractors to perform maintenance or assist us in securing our website.
+
+
+It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy.  For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems.  You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you.
+
+
+Without limiting the generality of the foregoing, you authorize us to collect, share, store, and otherwise use your information in conjunction with SpokenLayer.
+
+
+
+At times it may become necessary or desirable to SpokenLayer, for legal purposes, to release your information in response to a request from a government agency or a private litigant.  You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter.  In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either.  We may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities.  You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants.
+
+
+By providing information to the Site that forms the basis of communications with you, such as contact information, you waive all rights to file complaints concerning unsolicited e-mails from SpokenLayer since, by providing such information, you agree to receive communication from us or anyone else covered under this Privacy Policy. However, you may unsubscribe from certain communications by notifying SpokenLayer that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database.
+
+
+Your information may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, SpokenLayer transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Your information, including Personally Identifiable Information, may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ from those from your jurisdiction.
+If you are located outside the United States and choose to provide information to us, please note that we transfer the data, including Personally Identifiable Information, to the United States and process it there.
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+TWiT LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personally Identifiable Information will take place to an organization or a country unless there are adequate controls in place, including the security of your data and other personal information.
+Business Transaction.
+If TWiT LLC is involved in a merger, acquisition, or asset sale, your Personally Identifiable Information may be transferred. We will provide notice before your Personally Identifiable Information is transferred and becomes subject to a different Privacy Policy.
+Disclosure for Law Enforcement.
+Under certain circumstances, TWiT LLC may be required to disclose your Personally Identifiable Information if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
+Legal Requirements.
+TWiT LLC may disclose your Personally Identifiable Information in the good faith belief that such action is necessary to:
+To comply with a legal obligation.
+To protect and defend the rights or property of TWiT LLC or its Employees.
+To prevent or investigate possible wrongdoing in connection with the TWiT Services.
+To protect the personal safety of users of the TWiT Services or the public.
+To protect against legal liability.

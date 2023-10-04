@@ -61,7 +61,6 @@ if __name__ == "__main__":
 
         double_negatives_count = count_double_negatives(text)
         obscure_qualifiers_count = count_obscure_language_qualifiers(text)
-        print(file)
-        print("Double Negatives Count:", double_negatives_count)
-        print("Obscure Language Qualifiers Count:", obscure_qualifiers_count)
+        print("Double Negatives sentences Count:", double_negatives_count)
+        print("Obscure Language Qualifiers sentences Count:", obscure_qualifiers_count)
         print("------------------")
