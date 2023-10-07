@@ -6,6 +6,7 @@
 ├── LICENSE.md
 ├── INSTALL.md
 ├── src
+├── ├ Main_Quper.py
 │   ├── compliance of disclosure
 │   │	├── compliance_of_disclosure.py
 │   │       ├── predict_content.py  
@@ -37,9 +38,12 @@
 Below we describe each main file in our folder below.
 
 ### src
+#### Main_Quper.py
+Run this file obtain the full output of Quper on the console.
 #### Compliance of disclosure
 
-```compliance of disclosure.py```: Run this file to obtain the full outputs on the console. Filter out privacy policies with unsupported formats and without subheadings. By default, the privacy policy results generated based on the ```pp_example``` folder will be printed. 
+```compliance of disclosure.py```: Run this file to obtain the full outputs on the console. The console will receive a list consisting of a series of 0s and 1s, where 1 represents the corresponding component being present in the privacy policy, and 0 indicates that the privacy policy does not include the corresponding component. Filter out privacy policies with unsupported formats and without subheadings. By default, the privacy policy results generated based on the ```pp_example``` folder will be printed. 
+Component order is : COLLECT, COOKIE, SHARE, SECURITY, RIGHT, CHILDREN, REGION, UPDATE, HOW_USE, PROVIDER, RETENTION, DATA_USE.
 
 ```predict_content.py```: Use trained Bayesian classifier(bys_classifier.pkl) as well as a feature vector transformer (bys_tf.pkl) to predict the presence of subtitles in the privacy policy. Please refer to ```predict_content.md``` for details on how to use it.
 
