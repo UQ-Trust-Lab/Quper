@@ -5,6 +5,7 @@
 ├── README.md
 ├── LICENSE.md
 ├── INSTALL.md
+├── Quper_environment.yaml
 ├── src
 ├── ├ Main_Quper.py
 │   ├── compliance of disclosure
@@ -37,6 +38,9 @@
 
 Below we describe each main file in our folder below.
 
+### Quper_environment.yaml
+Run: conda env create -f Quper_environment.yaml
+This can create all the environments needed for Quper.
 ### src
 #### Main_Quper.py
 Run this file obtain the full output of Quper on the console.
