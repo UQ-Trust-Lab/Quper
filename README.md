@@ -33,6 +33,8 @@
 
 ```
 ***Note:*** This tree includes only main files. 
+The Quper website is now live. Users can query quality by directly entering the URL of the privacy policy.
+https://quper-orcin.vercel.app/
 
 ## Description:
 
