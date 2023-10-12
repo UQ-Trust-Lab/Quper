@@ -36,6 +36,9 @@
 ## Quper Website 
 The Quper website is now live. Users can query quality by directly entering the URL of the privacy policy.
 https://quper-orcin.vercel.app/
+
+## Configuration environment
+```pip install -r requirement.txt```
 ## How to use Quper
 ```cd src/```
 
