@@ -11,12 +11,15 @@ files=(
 )
 
 for file in "${files[@]}"; do
-    result=$(python3 "$file")
+    cd "$(dirname "$file")"
+    
+    result=$(python3 "$(basename "$file")")
     
     echo "Result of $file:"
     echo "-------------------------"
     echo "$result"
     echo "-------------------------"
     echo ""
+    
+    cd - > /dev/null
 done
-
