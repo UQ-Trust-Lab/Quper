@@ -37,8 +37,10 @@
 The Quper website is now live. Users can query quality by directly entering the URL of the privacy policy.
 https://quper-orcin.vercel.app/
 ## How to use Quper
-cd src/
-bash Quper.sh
+```cd src/```
+
+```bash Quper.sh```
+
 Run this file obtain the full output of Quper.
 ### src
 #### Compliance of disclosure
