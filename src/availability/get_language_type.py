@@ -5,7 +5,6 @@ import pandas as pd
 from selenium import webdriver
 import pandas as pd
 from time import sleep
-# 拿到所有非英语的语言
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from openpyxl import Workbook
@@ -83,7 +82,6 @@ def selectFunction(url):
                     languageButton = bor.find_element(by=By.XPATH, value="//*[contains(text(),'Australia')]")
                 except Exception:
                     return language
-    # 德语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Deutsch')]")
         language.append("Deutsch")
@@ -95,13 +93,11 @@ def selectFunction(url):
     except Exception:
         pass
 
-    # 意大利语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Italian')]")
         language.append("Italian")
     except Exception:
         pass
-    # 法语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'French')]")
         language.append("French")
@@ -112,13 +108,11 @@ def selectFunction(url):
         except Exception:
             pass
         pass
-    # 日语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Japanese')]")
         language.append("Japanese")
     except Exception:
         pass
-    # 葡萄牙语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Portuguese')]")
         language.append("Portuguese")
@@ -129,7 +123,6 @@ def selectFunction(url):
         except Exception:
             pass
         pass
-    # 西班牙语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Spanish')]")
         language.append("Spanish")
@@ -140,19 +133,16 @@ def selectFunction(url):
         except Exception:
             pass
         pass
-    # 海地语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Hindi')]")
         language.append("Hindi")
     except Exception:
         pass
-    # 阿拉伯语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Arabic')]")
         language.append("Arabic")
     except Exception:
         pass
-    # 中文
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'中文')]")
         language.append("Chinese")
@@ -163,7 +153,6 @@ def selectFunction(url):
         except Exception:
             pass
         pass
-    # 丹麦语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Dansk')]")
         language.append("Dansk")
@@ -174,7 +163,6 @@ def selectFunction(url):
         except Exception:
             pass
         pass
-    # 韩语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'한국어')]")
         language.append("Korean")
@@ -185,27 +173,23 @@ def selectFunction(url):
         except Exception:
             pass
         pass
-    # 荷兰语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Nederlands')]")
         language.append("Dutch")
     except Exception:
         pass
 
-    # 挪威语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Norwegian')]")
         language.append("Norsk")
     except Exception:
         pass
 
-    # 波兰语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'POLSKI')]")
         language.append("Polish")
     except Exception:
         pass
-    # 瑞典语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Svenska')]")
         language.append("Swedish")
@@ -216,7 +200,6 @@ def selectFunction(url):
         except Exception:
             pass
         pass
-    # 土耳其语
     try:
         bor.find_element(by=By.XPATH, value="//*[contains(text(),'Türkçe')]")
         language.append("Turkish")
