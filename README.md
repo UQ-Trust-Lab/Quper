@@ -5,9 +5,9 @@
 ├── README.md
 ├── LICENSE.md
 ├── INSTALL.md
-├── Quper_environment.yaml
+├── requirements.txt
 ├── src
-├── ├ Main_Quper.py
+│   ├── Quper.sh
 │   ├── compliance of disclosure
 │   │	├── compliance_of_disclosure.py
 │   │       ├── predict_content.py  
@@ -33,19 +33,14 @@
 
 ```
 ***Note:*** This tree includes only main files. 
+## Quper Website 
 The Quper website is now live. Users can query quality by directly entering the URL of the privacy policy.
 https://quper-orcin.vercel.app/
-
-## Description:
-
-Below we describe each main file in our folder below.
-
-### Quper_environment.yaml
-Run: conda env create -f Quper_environment.yaml
-This can create all the environments needed for Quper.
+## How to use Quper
+cd src/
+bash Quper.sh
+Run this file obtain the full output of Quper.
 ### src
-#### Main_Quper.py
-This document contains all of Quper's privacy policy quality metrics. Run this file obtain the full output of Quper on the console.
 #### Compliance of disclosure
 
 ```compliance of disclosure.py```: Run this file to obtain the full outputs on the console. The console will receive a list consisting of a series of 0s and 1s, where 1 represents the corresponding component being present in the privacy policy, and 0 indicates that the privacy policy does not include the corresponding component. Filter out privacy policies with unsupported formats and without subheadings. By default, the privacy policy results generated based on the ```pp_example``` folder will be printed. 
