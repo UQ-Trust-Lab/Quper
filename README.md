@@ -33,9 +33,6 @@
 
 ```
 ***Note:*** This tree includes only main files. 
-## Quper Website 
-The Quper website is now live. Users can query quality by directly entering the URL of the privacy policy.
-https://quper-orcin.vercel.app/
 
 ## Configuration environment
 ```conda create env -n Quper```
