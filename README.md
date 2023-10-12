@@ -39,8 +39,11 @@ https://quper-orcin.vercel.app/
 
 ## Configuration environment
 ```conda create env -n Quper```
+
 ```conda activate Quper```
+
 ```pip install -r requirements.txt```
+
 ## How to use Quper
 ```cd src/```
 
