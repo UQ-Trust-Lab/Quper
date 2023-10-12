@@ -45,7 +45,7 @@ Run: conda env create -f Quper_environment.yaml
 This can create all the environments needed for Quper.
 ### src
 #### Main_Quper.py
-Run this file obtain the full output of Quper on the console.
+This document contains all of Quper's privacy policy quality metrics. Run this file obtain the full output of Quper on the console.
 #### Compliance of disclosure
 
 ```compliance of disclosure.py```: Run this file to obtain the full outputs on the console. The console will receive a list consisting of a series of 0s and 1s, where 1 represents the corresponding component being present in the privacy policy, and 0 indicates that the privacy policy does not include the corresponding component. Filter out privacy policies with unsupported formats and without subheadings. By default, the privacy policy results generated based on the ```pp_example``` folder will be printed. 
