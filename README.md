@@ -63,12 +63,12 @@ Component order is : COLLECT, COOKIE, SHARE, SECURITY, RIGHT, CHILDREN, REGION, 
 
 
 <!-- pp_example -->
-Some examples of privacy policy documents.  
+```pp_example```: Some examples of privacy policy documents.  
 
 
 #### Timeliness
 
-```timeline.py```: Automated test script to get privacy policy web page updates by visiting the waybackmachine website.
+```timeline.py```: Automated test script to get privacy policy web page updates by visiting the waybackmachine website. The results encompass the initial release date, last update date, and the number of updates for privacy policies. The detailed results are provided in the console.
 
 #### Availability
 
@@ -77,7 +77,7 @@ Some examples of privacy policy documents.
 ```get_language_type.py```: Automated test script tp get all supported languages in a privacy policy web page. Please refer to ```get_language_type.md``` for details on how to use it.
 
 <!-- pp_example -->
-Some examples of privacy policy documents.
+```pp_example```: Some examples of privacy policy documents.
 
 
 #### Readability 
@@ -88,7 +88,7 @@ Some examples of privacy policy documents.
 ```main_idea_location.py```: Determine the location of the central idea of the sentence. Please refer to ```main_idea_location.md``` for details on how to use it.
 
 <!-- pp_example -->
-Some examples of privacy policy documents.
+```pp_example```: Some examples of privacy policy documents.
 
 ### dataset
 ```title.csv``` ---> used by ```bys_classifier.pkl``` and ```bys_tf.pkl``` for Title Bayesian classifier and Title Bayesian feature vector transformer training.
